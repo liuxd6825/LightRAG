@@ -67,3 +67,7 @@ test_*
 
 # Cline files
 memory-bank/
+
+
+/lightrag_webui/node_modules
+/lightrag/api/webui/assets/
